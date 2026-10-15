@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList>
 <Name>[DC Comics] Young Justice</Name>
-<NumIssues>85</Num Issues>
+<NumIssues>85</NumIssues>
 <Books>
 <Book Series="JLA: World Without Grown-Ups" Number="1" Volume="1998" Year="1998">
   <Database Name="cv" Series="6170" Issue="45195"/>
