@@ -1,4 +1,4 @@
-<Book Series="Jla: World Without Grown-Ups" Number="1" Volume="1998" Year="[ISSUE YEAR]">
+<Book Series="JLA: World Without Grown-Ups" Number="1" Volume="1998" Year="[ISSUE YEAR]">
 </Book>
 <Book Series="Jla: World Without Grown-Ups" Number="2" Volume="1998" Year="[ISSUE YEAR]">
 </Book>
