@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<ReadingList>
+<ReadingList xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance>
 <Name>[DC Comics] Legion (Post Zero Hour)</Name>
-<NumIssues>201</Num Issues>
+<NumIssues>201</NumIssues>
 <Books>
 <Book Series="Legion of Super-Heroes" Number="0" Volume="1989" Year="1994">
 <Book Series="Legionnaires" Number="0" Volume="1993" Year="1994">
