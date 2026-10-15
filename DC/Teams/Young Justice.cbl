@@ -18,7 +18,6 @@
 			<Database Name="metron" Series="1885" Issue="9328"/>
 			<Database Name="gcd" Series="5239" Issue="61795"/>
 		</Book>
-￼
 		<Book Series="Young Justice" Number="1" Volume="1998" Year="1998">
 			<Database Name="cv" Series="25379" Issue="76637"/>
 			<Database Name="metron" Series="1055" Issue="24713"/>
@@ -34,29 +33,24 @@
 			<Database Name="metron" Series="1885" Issue="24770"/>
 			<Database Name="gcd" Series="5239" Issue="203541"/>
 		</Book>
-￼
 		<Book Series="Young Justice" Number="3" Volume="1998" Year="1998">
 			<Database Name="cv" Series="5509" Issue="76639"/>
 			<Database Name="metron" Series="1885" Issue="24715"/>
 			<Database Name="gcd" Series="5239" Issue="96309"/>
 		</Book>
-￼
 		<Book Series="Secret Origins 80-Page Giant" Number="1" Volume="1998" Year="1998">
 			<Database Name="cv" Series="31767" Issue="199214"/>
 		</Book>
-￼
 		<Book Series="Young Justice" Number="4" Volume="1998" Year="1998">
 			<Database Name="cv" Series="5509" Issue="76640"/>
 			<Database Name="metron" Series="1885" Issue="24716"/>
 			<Database Name="gcd" Series="5239" Issue="96310"/>
 		</Book>
-￼
 		<Book Series="Young Justice: Secret Files & Origins" Number="1" Volume="1998" Year="1998">
 			<Database Name="cv" Series="31789" Issue="199244"/>
 			<Database Name="metron" Series="1875" Issue="24771"/>
 			<Database Name="gcd" Series="6179" Issue="62454"/>
 		</Book>
-￼
 		<Book Series="Young Justice" Number="5" Volume="1998" Year="1998">
 			<Database Name="cv" Series="5509" Issue="76641"/>
 			<Database Name="metron" Series="1885" Issue="24717"/>
@@ -102,31 +96,26 @@
 			<Database Name="metron" Series="1050" Issue="9255"/>
 			<Database Name="gcd" Series="5530" Issue="62914"/>
 		</Book>
-￼
 		<Book Series="Young Justice" Number="13" Volume="1998" Year="1999">
 			<Database Name="cv" Series="5509" Issue="114841"/>
 			<Database Name="metron" Series="1885" Issue="24727"/>
 			<Database Name="gcd" Series="5239" Issue="96319"/>
 		</Book>
-￼
 		<Book Series="Supergirl" Number="37" Volume="1996" Year="1999">
 			<Database Name="cv" Series="5766" Issue="46056"/>
 			<Database Name="metron" Series="1050" Issue="9256"/>
 			<Database Name="gcd" Series="5530" Issue="62963"/>
 		</Book>
-￼
 		<Book Series="Young Justice" Number="14" Volume="1998" Year="1999">
 			<Database Name="cv" Series="5509" Issue="114842"/>
 			<Database Name="metron" Series="1885" Issue="24728"/>
 			<Database Name="gcd" Series="5239" Issue="96320"/>
 		</Book>
-￼
 		<Book Series="Young Justice In No Man's Land" Number="1" Volume="1999" Year="1999">
 			<Database Name="cv" Series="21891" Issue="131873"/>
 			<Database Name="metron" Series="1263" Issue="12238"/>
 			<Database Name="gcd" Series="14737" Issue="256124"/>
 		</Book>
-￼
 		<Book Series="Young Justice" Number="15" Volume="1998" Year="1999">
 			<Database Name="cv" Series="5509" Issue="114843"/>
 			<Database Name="metron" Series="1885" Issue="24729"/>
@@ -147,7 +136,6 @@
 			<Database Name="metron" Series="1876" Issue="24772"/>
 			<Database Name="gcd" Series="14736" Issue="256123"/>
 		</Book>
-￼
 		<Book Series="Young Justice" Number="18" Volume="1998" Year="2000">
 			<Database Name="cv" Series="5509" Issue="114868"/>
 			<Database Name="metron" Series="1885" Issue="24732"/>
@@ -163,73 +151,61 @@
 			<Database Name="metron" Series="1874" Issue="24725"/>
 			<Database Name="gcd" Series="14447" Issue="250201"/>
 		</Book>
-￼
 		<Book Series="Superboy" Number="74" Volume="1994" Year="2000">
 			<Database Name="cv" Series="5261" Issue="53515"/>
 			<Database Name="metron" Series="1927" Issue="25874"/>
 			<Database Name="gcd" Series="4973" Issue="72023"/>
 		</Book>
-￼
 		<Book Series="Young Justice: Sins Of Youth - Secret Files & Origins" Number="1" Volume="2000" Year="2000">
 			<Database Name="cv" Series="33950" Issue="221279"/>
 			<Database Name="metron" Series="15497" Issue="164017"/>
 			<Database Name="gcd" Series="17694" Issue="290621"/>
 		</Book>
-￼
 		<Book Series="Young Justice: Sins Of Youth - JLA Jr." Number="1" Volume="2000" Year="2000">
 			<Database Name="cv" Series="31769" Issue="199217"/>
 			<Database Name="metron" Series="15493" Issue="164013"/>
 			<Database Name="gcd" Series="12205" Issue="217129"/>
 		</Book>
-￼
 		<Book Series="Young Justice: Sins Of Youth - Aquaboy & Lagoon Man" Number="1" Volume="2000" Year="2000">
 			<Database Name="cv" Series="33948" Issue="232774"/>
 			<Database Name="metron" Series="15498" Issue="164018"/>
 			<Database Name="gcd" Series="14448" Issue="250203"/>
 		</Book>
-￼
 		<Book Series="Young Justice: Sins Of Youth - Batboy And Robin" Number="1" Volume="2000" Year="2000">
 			<Database Name="cv" Series="33947" Issue="222438"/>
 			<Database Name="metron" Series="15495" Issue="164015"/>
 			<Database Name="gcd" Series="10148" Issue="95141"/>
 		</Book>
-￼
 		<Book Series="Young Justice: Sins Of Youth - Kid Flash & Impulse" Number="1" Volume="2000" Year="2000">
 			<Database Name="cv" Series="33880" Issue="220332"/>
 			<Database Name="metron" Series="15499" Issue="164019"/>
 			<Database Name="gcd" Series="14450" Issue="250205"/>
 		</Book>
-￼
 		<Book Series="Young Justice: Sins Of Youth - Starwoman And The Jsa Jr." Number="1" Volume="2000" Year="2000">
 			<Database Name="cv" Series="31146" Issue="193524"/>
 			<Database Name="metron" Series="15501" Issue="164021"/>
 			<Database Name="gcd" Series="10030" Issue="92851"/>
 		</Book>
-￼
 		<Book Series="Young Justice: Sins Of Youth - Superman Jr. & Superboy Sr." Number="1" Volume="2000" Year="2000">
 			<Database Name="cv" Series="27524" Issue="167773"/>
 			<Database Name="metron" Series="15500" Issue="164020"/>
 			<Database Name="gcd" Series="14452" Issue="250207"/>
 		</Book>
-￼
 		<Book Series="Young Justice: Sins Of Youth - Wonder Girls" Number="1" Volume="2000" Year="2000">
 			<Database Name="cv" Series="33877" Issue="220327"/>
 			<Database Name="metron" Series="15494" Issue="164014"/>
 			<Database Name="gcd" Series="14453" Issue="250208"/>
 		</Book>
-￼
 		<Book Series="Young Justice: Sins Of Youth - The Secret / Deadboy" Number="1" Volume="2000" Year="2000">
 			<Database Name="cv" Series="33949" Issue="221702"/>
 			<Database Name="metron" Series="15496" Issue="164016"/>
 			<Database Name="gcd" Series="14451" Issue="250206"/>
 		</Book>
-￼
 		<Book Series="Young Justice: Sins Of Youth" Number="2" Volume="2000" Year="2000">
 			<Database Name="cv" Series="23755" Issue="142191"/>
 			<Database Name="metron" Series="1874" Issue="24726"/>
 			<Database Name="gcd" Series="14447" Issue="250202"/>
 		</Book>
-￼
 		<Book Series="Young Justice" Number="20" Volume="1998" Year="2000">
 			<Database Name="cv" Series="5509" Issue="76656"/>
 			<Database Name="metron" Series="1885" Issue="24734"/>
@@ -326,7 +302,6 @@
 			<Database Name="metron" Series="1885" Issue="24989"/>
 			<Database Name="gcd" Series="5239" Issue="69558"/>
 		</Book>
-￼
 		<Book Series="Young Justice" Number="37" Volume="1998" Year="2001">
 			<Database Name="cv" Series="9420" Issue="141148"/>
 			<Database Name="metron" Series="1873" Issue="24751"/>
@@ -372,19 +347,16 @@
 			<Database Name="metron" Series="1885" Issue="24997"/>
 			<Database Name="gcd" Series="5239" Issue="233562"/>
 		</Book>
-￼
 		<Book Series="Robin" Number="101" Volume="1992" Year="2002">
 			<Database Name="cv" Series="4975" Issue="73784"/>
 			<Database Name="metron" Series="1175" Issue="10745"/>
 			<Database Name="gcd" Series="4656" Issue="993349"/>
 		</Book>
-￼
 		<Book Series="Superboy" Number="99" Volume="1994" Year="2002">
 			<Database Name="cv" Series="5261" Issue="119642"/>
 			<Database Name="metron" Series="1927" Issue="25899"/>
 			<Database Name="gcd" Series="4973" Issue="128677"/>
 		</Book>
-￼
 		<Book Series="Young Justice" Number="45" Volume="1998" Year="2002">
 			<Database Name="cv" Series="9420" Issue="126513"/>
 			<Database Name="metron" Series="1873" Issue="24759"/>
