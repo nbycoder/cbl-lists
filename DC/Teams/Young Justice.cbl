@@ -1,3 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ReadingList>
+<Name>[DC Comics] Young Justice</Name>
+<NumIssues>85</Num Issues>
+<Books>
 <Book Series="JLA: World Without Grown-Ups" Number="1" Volume="1998" Year="1998">
   <Database Name="cv" Series="6170" Issue="45195"/>
   <Database Name="metron" Series="1998" Issue="26802"/>
@@ -421,3 +426,5 @@
   <Database Name="metron" Series="377" Issue="3436"/>
   <Database Name="gcd" Series="14380" Issue="249171"/>
 </Book>
+</Books>
+</ReadingList>
