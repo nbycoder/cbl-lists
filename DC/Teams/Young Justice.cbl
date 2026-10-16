@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ReadingList xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
   <Name>[DC Comics] Young Justice</Name>
-  <NumIssues>85</NumIssues>
+  <NumIssues>84</NumIssues>
   <Books>
     <Book Series="JLA: World Without Grown-Ups" Number="1" Volume="1998" Year="1998">
       <Database Name="cv" Series="6170" Issue="45195" />
@@ -81,7 +81,7 @@
     <Book Series="Young Justice" Number="17" Volume="1998" Year="2000">
       <Database Name="cv" Series="9420" Issue="114867" />
     </Book>
-    <Book Series="Young Justice 80-Page Giant" Number="1" Volume="1998" Year="2000">
+    <Book Series="Young Justice 80-Page Giant" Number="1" Volume="1999" Year="1999">
       <Database Name="cv" Series="31788" Issue="199243" />
     </Book>
     <Book Series="Young Justice" Number="18" Volume="1998" Year="2000">
