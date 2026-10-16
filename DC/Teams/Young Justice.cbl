@@ -13,82 +13,82 @@
 <Database Name="cv" Series="5509" Issue="149830"/>
 </Book>
 <Book Series="Young Justice" Number="1" Volume="1998" Year="1998">
-<Database Name="cv" Series="25379" Issue="76637"/>
+<Database Name="cv" Series="9420" Issue="76637"/>
 </Book>
 <Book Series="Young Justice" Number="2" Volume="1998" Year="1998">
-<Database Name="cv" Series="5509" Issue="76639"/>
+<Database Name="cv" Series="9420" Issue="76639"/>
 </Book>
 <Book Series="Young Justice" Number="1000000" Volume="1998" Year="1998">
-<Database Name="cv" Series="5509" Issue="91354"/>
+<Database Name="cv" Series="9420" Issue="91354"/>
 </Book>
 <Book Series="Young Justice" Number="3" Volume="1998" Year="1998">
-<Database Name="cv" Series="5509" Issue="76639"/>
+<Database Name="cv" Series="9420" Issue="76639"/>
 </Book>
 <Book Series="Secret Origins 80-Page Giant" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="31767" Issue="199214"/>
 </Book>
 <Book Series="Young Justice" Number="4" Volume="1998" Year="1998">
-<Database Name="cv" Series="5509" Issue="76640"/>
+<Database Name="cv" Series="9420" Issue="76640"/>
 </Book>
 <Book Series="Young Justice: Secret Files & Origins" Number="1" Volume="1998" Year="1998">
 <Database Name="cv" Series="31789" Issue="199244"/>
 </Book>
 <Book Series="Young Justice" Number="5" Volume="1998" Year="1998">
-<Database Name="cv" Series="5509" Issue="76641"/>
+<Database Name="cv" Series="9420" Issue="76641"/>
 </Book>
 <Book Series="Young Justice" Number="6" Volume="1998" Year="1999">
-<Database Name="cv" Series="5509" Issue="76642"/>
+<Database Name="cv" Series="9420" Issue="76642"/>
 </Book>
 <Book Series="Young Justice" Number="7" Volume="1998" Year="1999">
-<Database Name="cv" Series="5509" Issue="76643"/>
+<Database Name="cv" Series="9420" Issue="76643"/>
 </Book>
 <Book Series="Young Justice" Number="8" Volume="1998" Year="1999">
-<Database Name="cv" Series="5509" Issue="76644"/>
+<Database Name="cv" Series="9420" Issue="76644"/>
 </Book>
 <Book Series="Young Justice" Number="9" Volume="1998" Year="1999">
-<Database Name="cv" Series="5509" Issue="76645"/>
+<Database Name="cv" Series="9420" Issue="76645"/>
 </Book>
 <Book Series="Young Justice" Number="10" Volume="1998" Year="1999">
-<Database Name="cv" Series="5509" Issue="114251"/>
+<Database Name="cv" Series="9420" Issue="114251"/>
 </Book>
 <Book Series="Young Justice" Number="11" Volume="1998" Year="1999">
-<Database Name="cv" Series="5509" Issue="114554"/>
+<Database Name="cv" Series="9420" Issue="114554"/>
 </Book>
 <Book Series="Young Justice" Number="12" Volume="1998" Year="1999">
-<Database Name="cv" Series="5509" Issue="114555"/>
+<Database Name="cv" Series="9420" Issue="114555"/>
 </Book>
 <Book Series="Supergirl" Number="36" Volume="1996" Year="1999">
 <Database Name="cv" Series="5766" Issue="46011"/>
 </Book>
 <Book Series="Young Justice" Number="13" Volume="1998" Year="1999">
-<Database Name="cv" Series="5509" Issue="114841"/>
+<Database Name="cv" Series="9420" Issue="114841"/>
 </Book>
 <Book Series="Supergirl" Number="37" Volume="1996" Year="1999">
 <Database Name="cv" Series="5766" Issue="46056"/>
 </Book>
 <Book Series="Young Justice" Number="14" Volume="1998" Year="1999">
-<Database Name="cv" Series="5509" Issue="114842"/>
+<Database Name="cv" Series="9420" Issue="114842"/>
 </Book>
 <Book Series="Young Justice In No Man's Land" Number="1" Volume="1999" Year="1999">
 <Database Name="cv" Series="21891" Issue="131873"/>
 </Book>
 <Book Series="Young Justice" Number="15" Volume="1998" Year="1999">
-<Database Name="cv" Series="5509" Issue="114843"/>
+<Database Name="cv" Series="9420" Issue="114843"/>
 </Book>
 <Book Series="Young Justice" Number="16" Volume="1998" Year="1999">
-<Database Name="cv" Series="5509" Issue="114866"/>
+<Database Name="cv" Series="9420" Issue="114866"/>
 </Book>
 <Book Series="Young Justice" Number="17" Volume="1998" Year="1999">
-<Database Name="cv" Series="5509" Issue="114867"/>
+<Database Name="cv" Series="9420" Issue="114867"/>
 </Book>
 <Book Series="Young Justice 80-Page Giant" Number="1" Volume="1999" Year="1999">
 <Database Name="cv" Series="31788" Issue="199243"/>
 </Book>
 <Book Series="Young Justice" Number="18" Volume="1998" Year="2000">
-<Database Name="cv" Series="5509" Issue="114868"/>
+<Database Name="cv" Series="9420" Issue="114868"/>
 </Book>
 <Book Series="Young Justice" Number="19" Volume="1998" Year="2000">
-<Database Name="cv" Series="5509" Issue="114869"/>
+<Database Name="cv" Series="9420" Issue="114869"/>
 </Book>
 <Book Series="Young Justice: Sins Of Youth" Number="1" Volume="2000" Year="2000">
 <Database Name="cv" Series="23755" Issue="142141"/>
@@ -127,46 +127,46 @@
 <Database Name="cv" Series="23755" Issue="142191"/>
 </Book>
 <Book Series="Young Justice" Number="20" Volume="1998" Year="2000">
-<Database Name="cv" Series="5509" Issue="76656"/>
+<Database Name="cv" Series="9420" Issue="76656"/>
 </Book>
 <Book Series="Young Justice" Number="21" Volume="1998" Year="2000">
-<Database Name="cv" Series="5509" Issue="114845"/>
+<Database Name="cv" Series="9420" Issue="114845"/>
 </Book>
 <Book Series="Young Justice" Number="22" Volume="1998" Year="2000">
-<Database Name="cv" Series="5509" Issue="141132"/>
+<Database Name="cv" Series="9420" Issue="141132"/>
 </Book>
 <Book Series="Young Justice" Number="23" Volume="1998" Year="2000">
-<Database Name="cv" Series="5509" Issue="141133"/>
+<Database Name="cv" Series="9420" Issue="141133"/>
 </Book>
 <Book Series="Young Justice" Number="24" Volume="1998" Year="2000">
-<Database Name="cv" Series="5509" Issue="128665"/>
+<Database Name="cv" Series="9420" Issue="128665"/>
 </Book>
 <Book Series="Young Justice" Number="25" Volume="1998" Year="2000">
-<Database Name="cv" Series="5509" Issue="141134"/>
+<Database Name="cv" Series="9420" Issue="141134"/>
 </Book>
 <Book Series="Young Justice" Number="26" Volume="1998" Year="2000">
-<Database Name="cv" Series="5509" Issue="141135"/>
+<Database Name="cv" Series="9420" Issue="141135"/>
 </Book>
 <Book Series="Young Justice" Number="27" Volume="1998" Year="2000">
-<Database Name="cv" Series="5509" Issue="141136"/>
+<Database Name="cv" Series="9420" Issue="141136"/>
 </Book>
 <Book Series="Young Justice" Number="28" Volume="1998" Year="2000">
-<Database Name="cv" Series="5509" Issue="141137"/>
+<Database Name="cv" Series="9420" Issue="141137"/>
 </Book>
 <Book Series="Young Justice" Number="29" Volume="1998" Year="2001">
-<Database Name="cv" Series="5509" Issue="141138"/>
+<Database Name="cv" Series="9420" Issue="141138"/>
 </Book>
 <Book Series="Young Justice" Number="30" Volume="1998" Year="2001">
-<Database Name="cv" Series="5509" Issue="141139"/>
+<Database Name="cv" Series="9420" Issue="141139"/>
 </Book>
 <Book Series="Young Justice" Number="31" Volume="1998" Year="2001">
-<Database Name="cv" Series="5509" Issue="141140"/>
+<Database Name="cv" Series="9420" Issue="141140"/>
 </Book>
 <Book Series="Young Justice" Number="32" Volume="1998" Year="2001">
-<Database Name="cv" Series="5509" Issue="141141"/>
+<Database Name="cv" Series="9420" Issue="141141"/>
 </Book>
 <Book Series="Young Justice" Number="33" Volume="1998" Year="2001">
-<Database Name="cv" Series="5509" Issue="141142"/>
+<Database Name="cv" Series="9420" Issue="141142"/>
 </Book>
 <Book Series="Young Justice" Number="34" Volume="1998" Year="2001">
 <Database Name="cv" Series="5509" Issue="141143"/>
