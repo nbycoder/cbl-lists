@@ -258,5 +258,5 @@
 <Book Series="Titans/Young Justice: Graduation Day" Number="3" Volume="2003" Year="2003">
 <Database Name="cv" Series="19106" Issue="126440"/>
 </Book>
-	</Books>
-		</ReadingList>
+</Books>
+</ReadingList>
